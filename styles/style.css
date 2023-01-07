@@ -18,6 +18,10 @@ h1{
     font-weight: 700;
 }
 
+
+
+
+
 /* Styles Header Section */
 .header{
     background-image: url(../images/banner/banner3.png);
@@ -33,6 +37,8 @@ h1{
     margin-top: 24px;
 }
 /* Done Header Section */
+
+
 
 
 
@@ -72,6 +78,9 @@ ul, li{
 
 
 
+
+
+
 /* Styles Plan Section */
 .plan{
     text-align: center;
@@ -104,6 +113,9 @@ ul, li{
 
 
 
+
+
+
 /* Styles Mindset Section */
 .mindset{
     display: flex;
@@ -125,6 +137,9 @@ ul, li{
     font-weight: 700;
 }
 /* Done Mindset Section */
+
+
+
 
 
 
@@ -151,6 +166,9 @@ ul, li{
     margin-top: 32px;
 }
 /* Done Portfolio Section */
+
+
+
 
 
 
