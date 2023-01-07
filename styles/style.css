@@ -151,3 +151,56 @@ ul, li{
     margin-top: 32px;
 }
 /* Done Portfolio Section */
+
+
+
+/* Styles Footer Section */
+.footer{
+    background: #151414;
+    padding: 120px 0 160px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-title{
+    margin-top: 32px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+.footer-description{
+    margin-top: 24px;
+    color: #fff;
+}
+.icons{
+    margin-top: 32px;
+    width: 80%;
+}
+.margin-left{
+    margin-left: 16px;
+}
+.footer-subscribe{
+    margin-top: 32px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 550;
+}
+form .input{
+    color: white;
+    background: none;
+    border: 2px solid white;
+    padding: 16px 8px;
+    border-radius: 5px;
+    margin-top: 24px;
+}
+.footer-button{
+    color: white;
+    margin-top: 32px;
+    background: linear-gradient(to right, #005face1, #4caefde1);
+    padding: 16px 32px;
+    border: none;
+    border-radius: 5px;
+}
+/* Done Footer Section */
