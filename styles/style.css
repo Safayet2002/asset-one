@@ -2,3 +2,69 @@
     margin: 0;
     text-decoration: none;
 }
+h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.btn-primary{
+    margin-top: 32px;
+    color: #005FAC;
+    padding: 20px 24px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Styles Header Section */
+.header{
+    background-image: url(../images/banner/banner3.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+.header-content{
+    padding: 216px 230px 216px;
+    text-align: right;
+}
+.header-paragraph{
+    color: #fff;
+    margin-top: 24px;
+}
+/* Done Header Section */
+
+
+
+
+/* Styles Header Section */
+.my-failures{
+    display: flex;
+    justify-content: space-around;
+    padding: 160px 0px;
+    align-items: center;
+}
+.failure-content{
+    align-items: left;
+}
+.my-failure-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.my-failure-paragraph{
+    color: #444343;
+    margin-top: 24px;
+}
+.list-items{
+    list-style: none;
+    margin-top: 16px;
+
+}
+ul, li{
+    margin-top: 8px;
+}
+.fa-solid{
+    background-color: #005FAC;
+}
+/* Done Header Section */
