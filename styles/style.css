@@ -75,7 +75,7 @@ ul, li{
 /* Styles Plan Section */
 .plan{
     text-align: center;
-    padding: 160px 0px;
+    padding: 140px 0px;
 }
 .plan-title{
     color: #151414;
@@ -100,3 +100,28 @@ ul, li{
 }
 
 /* Done Plan Section */
+
+
+
+
+/* Styles Mindset Section */
+.mindset{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-radius: 5px;
+}
+.mindset-content{
+    text-align: left;
+    background: linear-gradient(to right, #005facc2, rgba(255, 255, 255, 0));
+    border-radius: 5px;
+    padding: 58px 682px 55px 64px;
+}
+.mindset-title{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+}
+/* Done Mindset Section */
