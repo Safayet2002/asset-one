@@ -37,7 +37,7 @@ h1{
 
 
 
-/* Styles Header Section */
+/* Styles Failures Section */
 .my-failures{
     display: flex;
     justify-content: space-around;
@@ -64,7 +64,39 @@ h1{
 ul, li{
     margin-top: 8px;
 }
-.fa-solid{
-    background-color: #005FAC;
+.fa-regular{
+    font-size: 16px;
 }
-/* Done Header Section */
+/* Done Failures Section */
+
+
+
+
+/* Styles Plan Section */
+.plan{
+    text-align: center;
+    padding: 160px 0px;
+}
+.plan-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.plan-items h4{
+    font-size: 28px;
+    font-weight: 700;
+}
+.plan-items{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 0px;
+    align-items: center;
+}
+.margin-title{
+    margin-top: 24px;
+}
+.plan-description{
+    margin-top: 16px;
+}
+
+/* Done Plan Section */
